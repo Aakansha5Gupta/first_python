@@ -1,12 +1,12 @@
 #print
-print("Tridev Sharma" ,  "Hello Everyone")
-print("Age 17")
-print("35+23")
-print(35+23)
+print("Aakansha gupta" ,  "Hello Everyone")
+print("Age 19")
+print("20+10")
+print(20+10)
 
 #variable=value
-name = "Tridev Sharm"
-age = 17
+name = "Aakansha gupta"
+age = 19
 price = 50.99
 print(name, age, price)
 print("My Name Is =" , name)

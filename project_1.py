@@ -1,21 +1,21 @@
 #string
 
-str1 = 'Tridev Sharma'
-str2 = "Tridev Sharma"
-str3 = """Tridev Sharma"""
+str1 = 'Aakansha gupta'
+str2 = "Aakansha gupta"
+str3 = """Aakansha gupta"""
 
 print(str1 + " " + str2)
 print(len(str1 + str2 + str3)) #length
 
 print(str1[0 :len (str1)]) #slicing
 
-print(str1.endswith("ma")) #checking
+print(str1.endswith("ta")) #checking
 
 print(str2.capitalize()) #capitalize
 
-print(str3.replace("Tridev" , "Prem")) #Replacing
+print(str3.replace("Aakansha" , "Goyal")) #Replacing
 
-print(str1.find('v')) 
+print(str1.find('k')) 
 
 print(str2.count('a'))
 
